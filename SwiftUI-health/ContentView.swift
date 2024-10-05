@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwiftUI-health
 //
-//  Created by mai pham on 10/5/24.
+//  Created by Vanessa Jones on 10/5/24.
 //
 
 import SwiftUI
